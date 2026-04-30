@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm JJbanegas
+# 👋 Hi, I'm Joel Banegas
 
 ### Full-Stack Developer | Building robust solutions across frontend, backend & databases
 
